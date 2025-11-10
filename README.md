@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 FullStack web developer
 ------------------------
-I’m a fullStack web developer with 6 years experience, I work mainly with JavaScript based frameworks and librairies ( reactjs and angular ), also pretty proficient in backend using Java and spring framework.  
+I’m a Highly skilled Full Stack Developer with 9+ years of experience delivering scalable web applications using Java, Spring Boot, React, and Angular. Proven track record of collaborating in Agile teams, managing sprint planning and release management to deliver high-quality features on time. Passionate about technology and continuous learning, consistently exceeding business goals.
 
-* 🌍  I'm based in Paris 
+* 🌍  I'm based in Paris (🚀 Moving to Ottawa Canada in April 2026)
 * ✉️  You can contact me at [soukaki.m@gmail.com](mailto:soukaki.m@gmail.com) 
-* 🧠  I'm learning Flutter
-* 🚀  I'm currently working on [Internal reactjs web app for the company (société général )]
+* 🚀  I'm currently working on [Internal several projects using React, Angular and Java for Rolex]
 
 ### Skills  
 
