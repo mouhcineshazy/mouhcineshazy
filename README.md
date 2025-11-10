@@ -7,7 +7,7 @@ I’m a Highly skilled Full Stack Developer with 9+ years of experience deliveri
 
 * 🌍  I'm based in Paris (🚀 Moving to Ottawa Canada in April 2026)
 * ✉️  You can contact me at [soukaki.m@gmail.com](mailto:soukaki.m@gmail.com) 
-* 🚀  I'm currently working on [Internal several projects using React, Angular and Java for Rolex]
+* 🚀  I'm currently working as senior fullstack developer on several projects using React, Angular and Java for Rolex as part of their software factory team
 
 ### Skills  
 
