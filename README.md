@@ -5,7 +5,7 @@ FullStack web developer
 ------------------------
 I’m a Highly skilled Full Stack Developer with 9+ years of experience delivering scalable web applications using Java, Spring Boot, React, and Angular. Proven track record of collaborating in Agile teams, managing sprint planning and release management to deliver high-quality features on time. Passionate about technology and continuous learning, consistently exceeding business goals.
 
-* 🌍  I'm based in Paris (🚀 Moving to Ottawa Canada in April 2026)
+* 🌍  I'm based in Ottawa Canada
 * ✉️  You can contact me at [soukaki.m@gmail.com](mailto:soukaki.m@gmail.com) 
 * 🚀  I'm currently working as senior fullstack developer on several projects using React, Angular and Java for Rolex as part of their software factory team
 
