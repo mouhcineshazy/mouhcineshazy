@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mouhcine Soukaki
 ========================================================================================================================================
 
-Senior Full Stack Software Engineer | AWS Solutions Architect | https://mouhcine-soukaki.com/
+Senior Full Stack Software Engineer | AWS Solutions Architect
 --------------------------------------------------------------
 
 9+ years at tier-1 companies (Rolex, Société Générale, AXA) specializing in legacy system modernization and production stability. AWS Certified Solutions Architect with deep expertise in Java/Spring Boot, React/Angular, and cloud-native architecture. Engineering degree from Télécom SudParis (Grande École). Bilingual (English/French).
 
 * 🌍  Based in Ottawa, Canada
+* 🔗  <a href="https://mouhcine-soukaki.com/" alt="Mouhcine soukaki resume Senior Full Stack Software Engineer" target="_blank"> Visit My website </a>
 * ✉️  You can contact me at [soukaki.m@gmail.com](mailto:soukaki.m@gmail.com)
 * 🚀  Currently working as Senior Full Stack Developer at Rolex, building B2B platforms with React, Angular, Java, Spring Boot, and Okta
 * 🏅  AWS Certified Solutions Architect – Associate (December 2025)
